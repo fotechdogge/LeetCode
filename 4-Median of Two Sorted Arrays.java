@@ -1,5 +1,8 @@
 /*
 Accepted	3 ms	47.8 MB	java
+    1. num1 + num2 = num3 => 
+    2. num3.sort() =>
+    3. getMed(num3)
 */
 
 
